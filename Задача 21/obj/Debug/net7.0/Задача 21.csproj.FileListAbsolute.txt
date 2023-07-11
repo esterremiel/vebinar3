@@ -1,0 +1,15 @@
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.csproj.AssemblyReference.cache
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfoInputs.cache
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfo.cs
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.csproj.CoreCompileInputs.cache
+D:\учёба\C#\С# семинар 3 дз\Задача 21\bin\Debug\net7.0\Задача 21.exe
+D:\учёба\C#\С# семинар 3 дз\Задача 21\bin\Debug\net7.0\Задача 21.deps.json
+D:\учёба\C#\С# семинар 3 дз\Задача 21\bin\Debug\net7.0\Задача 21.runtimeconfig.json
+D:\учёба\C#\С# семинар 3 дз\Задача 21\bin\Debug\net7.0\Задача 21.dll
+D:\учёба\C#\С# семинар 3 дз\Задача 21\bin\Debug\net7.0\Задача 21.pdb
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.dll
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\refint\Задача 21.dll
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.pdb
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\Задача 21.genruntimeconfig.cache
+D:\учёба\C#\С# семинар 3 дз\Задача 21\obj\Debug\net7.0\ref\Задача 21.dll
